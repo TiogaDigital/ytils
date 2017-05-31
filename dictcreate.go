@@ -1,4 +1,4 @@
-package dictcreate
+package ytils
 
 import (
 	"bytes"
